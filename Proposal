@@ -1,0 +1,13 @@
+Group 2 - Project 3
+
+For this project we will be looking at salary data for individuals. Our data source is Kaggle. 
+The data includes salary, years of experience, age, gender, job title, and education level. We chose this data because it’s something we as a group find interesting. 
+One of the things we are most curious to learn is how or if education level impacts salary. A preliminary review of the data shows that one of the job titles included 
+within the data is Data Analyst, so it will be interesting to see how education level impacts salary. 
+
+A list of potential questions to research are below: 
+How does gender affect salary?
+What are the wage differences between those with “Junior” in their job title vs those with “Senior” in their job title?
+Does more experience positively correlate with salary? 
+Is there a correlation between education level, job title, and salary?
+Salary information for individuals with job title “Data Analyst”
